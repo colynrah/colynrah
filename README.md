@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @colynrah
+- 👀 I’m interested in created fun and exciting games while improving my coding knowledge
+- 🌱 I’m currently learning C# in Unity but it has been a bit of a struggle because I come from a visual scripting background
